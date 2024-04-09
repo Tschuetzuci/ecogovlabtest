@@ -9,13 +9,14 @@ sections:
     content:
       title: |
         EcoGovLab
+        Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-EcoGovLab cultivates research, education and diverse collaborations supporting next-generation environmental governance.
-
+        EcoGovLab cultivates research, education and diverse collaborations supporting next-generation environmental governance.
+  
   - block: collection
     content:
       title: Latest News
